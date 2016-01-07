@@ -1,0 +1,4 @@
+.world {
+  composes: default from '../../core.css';
+  text-decoration: overline;
+}

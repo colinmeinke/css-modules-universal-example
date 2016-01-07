@@ -1,0 +1,5 @@
+.hello {
+  composes: default from '../../core.css';
+  font-weight: normal;
+  text-transform: uppercase;
+}

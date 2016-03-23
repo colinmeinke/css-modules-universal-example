@@ -19,7 +19,7 @@ app.get( '/', ( req, res ) => {
          <div
            class="app"
            style="height: 100%"
-         >${ renderToString( <Hello /> )}</div>
+         >${ renderToString( <Hello /> ) }</div>
        </body>
        <script defer src="/client.js" /></script>
      </html>`
